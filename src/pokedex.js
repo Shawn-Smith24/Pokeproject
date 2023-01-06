@@ -43,7 +43,7 @@ searchBar.addEventListener('keyup', (e) => {
   })
   console.log(filterPokemon)
 })
-//take the array made from the search input and make it change filter list
+
 
 
 
